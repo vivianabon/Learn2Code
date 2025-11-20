@@ -1,1 +1,1 @@
-../2025-W46/slides.md
+../2025-W47/slides.md
